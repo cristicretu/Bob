@@ -1,0 +1,34 @@
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\C_SpeechRecognition.exe.config
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\C_SpeechRecognition.exe
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\C_SpeechRecognition.pdb
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\C_SpeechRecognition.Bob.resources
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\PoliHack_App_Esentza.Meniu.resources
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\C_SpeechRecognition.Properties.Resources.resources
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\Bot Bob.csproj.GenerateResource.cache
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\Bot Bob.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\C_SpeechRecognition.exe
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\C_SpeechRecognition.pdb
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\Doamne_ajuta.mdf
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\Doamne_ajuta_log.ldf
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\Bot Bob.csprojAssemblyReference.cache
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\C_SpeechRecognition.Log_In.resources
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\EntityFramework.dll
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\System.Data.SQLite.dll
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\EntityFramework.xml
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\System.Data.SQLite.xml
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\Bot Bob.csproj.CopyComplete
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\C_SpeechRecognition.statistics.resources
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\LiveCharts.dll
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\LiveCharts.pdb
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\LiveCharts.xml
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\C_SpeechRecognition.Settings.resources

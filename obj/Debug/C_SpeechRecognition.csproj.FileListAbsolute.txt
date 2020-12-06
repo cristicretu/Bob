@@ -1,0 +1,51 @@
+C:\Users\mirce\source\repos\C_SpeechRecognition\bin\Debug\C_SpeechRecognition.exe.config
+C:\Users\mirce\source\repos\C_SpeechRecognition\bin\Debug\C_SpeechRecognition.exe
+C:\Users\mirce\source\repos\C_SpeechRecognition\bin\Debug\C_SpeechRecognition.pdb
+C:\Users\mirce\source\repos\C_SpeechRecognition\obj\Debug\C_SpeechRecognition.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\C_SpeechRecognition\obj\Debug\C_SpeechRecognition.Form1.resources
+C:\Users\mirce\source\repos\C_SpeechRecognition\obj\Debug\C_SpeechRecognition.Properties.Resources.resources
+C:\Users\mirce\source\repos\C_SpeechRecognition\obj\Debug\C_SpeechRecognition.csproj.GenerateResource.cache
+C:\Users\mirce\source\repos\C_SpeechRecognition\obj\Debug\C_SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\C_SpeechRecognition\obj\Debug\C_SpeechRecognition.exe
+C:\Users\mirce\source\repos\C_SpeechRecognition\obj\Debug\C_SpeechRecognition.pdb
+C:\Users\Etohirse\Documents\GitHub\SpeechRecognition\bin\Debug\C_SpeechRecognition.exe.config
+C:\Users\Etohirse\Documents\GitHub\SpeechRecognition\bin\Debug\C_SpeechRecognition.exe
+C:\Users\Etohirse\Documents\GitHub\SpeechRecognition\bin\Debug\C_SpeechRecognition.pdb
+C:\Users\Etohirse\Documents\GitHub\SpeechRecognition\obj\Debug\C_SpeechRecognition.csprojAssemblyReference.cache
+C:\Users\Etohirse\Documents\GitHub\SpeechRecognition\obj\Debug\C_SpeechRecognition.Form1.resources
+C:\Users\Etohirse\Documents\GitHub\SpeechRecognition\obj\Debug\C_SpeechRecognition.Properties.Resources.resources
+C:\Users\Etohirse\Documents\GitHub\SpeechRecognition\obj\Debug\C_SpeechRecognition.csproj.GenerateResource.cache
+C:\Users\Etohirse\Documents\GitHub\SpeechRecognition\obj\Debug\C_SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Etohirse\Documents\GitHub\SpeechRecognition\obj\Debug\C_SpeechRecognition.exe
+C:\Users\Etohirse\Documents\GitHub\SpeechRecognition\obj\Debug\C_SpeechRecognition.pdb
+C:\Users\mirce\Source\Repos\cristicretu\SpeechRecognition\obj\Debug\C_SpeechRecognition.csprojAssemblyReference.cache
+C:\Users\mirce\Source\Repos\cristicretu\SpeechRecognition\obj\Debug\PoliHack_App_Esentza.meniu.resources
+C:\Users\mirce\Source\Repos\cristicretu\SpeechRecognition\obj\Debug\C_SpeechRecognition.Properties.Resources.resources
+C:\Users\mirce\Source\Repos\cristicretu\SpeechRecognition\obj\Debug\C_SpeechRecognition.csproj.GenerateResource.cache
+C:\Users\mirce\Source\Repos\cristicretu\SpeechRecognition\obj\Debug\C_SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\mirce\Source\Repos\cristicretu\SpeechRecognition\obj\Debug\C_SpeechRecognition.exe
+C:\Users\mirce\Source\Repos\cristicretu\SpeechRecognition\obj\Debug\C_SpeechRecognition.pdb
+C:\Users\mirce\Source\Repos\cristicretu\SpeechRecognition\bin\Debug\C_SpeechRecognition.exe.config
+C:\Users\mirce\Source\Repos\cristicretu\SpeechRecognition\bin\Debug\C_SpeechRecognition.exe
+C:\Users\mirce\Source\Repos\cristicretu\SpeechRecognition\bin\Debug\C_SpeechRecognition.pdb
+C:\DOAMNE AJUTA!!!\SpeechRecognition\bin\Debug\C_SpeechRecognition.exe.config
+C:\DOAMNE AJUTA!!!\SpeechRecognition\bin\Debug\C_SpeechRecognition.exe
+C:\DOAMNE AJUTA!!!\SpeechRecognition\bin\Debug\C_SpeechRecognition.pdb
+C:\DOAMNE AJUTA!!!\SpeechRecognition\obj\Debug\C_SpeechRecognition.csprojAssemblyReference.cache
+C:\DOAMNE AJUTA!!!\SpeechRecognition\obj\Debug\PoliHack_App_Esentza.Meniu.resources
+C:\DOAMNE AJUTA!!!\SpeechRecognition\obj\Debug\C_SpeechRecognition.Properties.Resources.resources
+C:\DOAMNE AJUTA!!!\SpeechRecognition\obj\Debug\C_SpeechRecognition.csproj.GenerateResource.cache
+C:\DOAMNE AJUTA!!!\SpeechRecognition\obj\Debug\C_SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\DOAMNE AJUTA!!!\SpeechRecognition\obj\Debug\C_SpeechRecognition.exe
+C:\DOAMNE AJUTA!!!\SpeechRecognition\obj\Debug\C_SpeechRecognition.pdb
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\C_SpeechRecognition.exe.config
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\C_SpeechRecognition.exe
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\bin\Debug\C_SpeechRecognition.pdb
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\C_SpeechRecognition.csprojAssemblyReference.cache
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\PoliHack_App_Esentza.Meniu.resources
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\C_SpeechRecognition.Properties.Resources.resources
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\C_SpeechRecognition.csproj.GenerateResource.cache
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\C_SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\C_SpeechRecognition.exe
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\C_SpeechRecognition.pdb
+C:\Users\arthu\Source\Repos\cristicretu\Bob_SpeechRecognition\obj\Debug\C_SpeechRecognition.Bob.resources
