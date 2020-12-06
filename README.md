@@ -1,7 +1,3 @@
-
-
-Application made in C# for Polihack V11 Hackaton by team Esentza.
-
 ### Bob
 
 ------
@@ -25,10 +21,15 @@ He can also tell you how much time you spend on your computer, and he will remin
 
 ### Running the app
 
+Being a Hackaton, we didn't have enough time to finish the app, so if you want to load the SQLite database, you need to change the code.
+
 ```
-git clone "//"
-C:\Users\yourUserName\Documents\GitHub\INSERT HERE\bin\Debug\C_SpeechRecognition.exe
+git clone https://github.com/cristicretu/Bob
+or
+download zip from this repo
 ```
+
+After downloading, navigate to the location where is the project, go in *Resources and copy the path to ii_bun.sqlite.* *Replace the string from conn with that path.* You have to do this in **Form1.cs, Log In.cs and Settings.cs**
 
 ### TODO in future versions
 
