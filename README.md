@@ -1,5 +1,3 @@
-<img src="C:\Users\Etohirse\Desktop\icon.png" style="zoom:25%;" />
-
 
 
 Application made in C# for Polihack V11 Hackaton by team Esentza.
