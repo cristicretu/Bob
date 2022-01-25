@@ -10,16 +10,16 @@ Bob is a speech recognition app that is always here for you, and most importantl
 
 ```
 user: What are the symptoms of COVID-19?
-bob: Trouble breathing, persistent pain or preassure in chest, confusion, headache ...
+bob: Trouble breathing, persistent pain or pressure in the chest, confusion, headache ...
 user: Thank you!
-bob: I'm here everytime to help you, user.
+bob: I'm here every time to help you, the user.
 ```
 
 ### Purpose?!
 
-He can both amuse you with his jokes, help you with important information about a pandemic and also he can give you basic information like "What day is today?" or "What's the time?".
+He can both amuse you with his jokes, helps you with important information about a pandemic, and also he can give you basic information like "What day is today?" or "What's the time?".
 
-He can also tell you how much time you spend on your computer, and he will remind you to about it and advise you to do some exercise or take some rest.
+He can also tell you how much time you spend on your computer, and he will remind you about it and advise you to do some exercise or take some rest.
 
 ### Running the app
 
